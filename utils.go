@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/nsf/termbox-go"
+	"github.com/escribano/termbox-go"
 )
 
 // extractOptions will extract all options from the slice of arguments provided,
